@@ -12,3 +12,7 @@ Material heat transfer
   In this project, the method of detecting the surface structure of an object using an infrared thermal imaging sensor will be verified by simulation using the Ansys software. Find the detecting precision by comparing the infrared image errors of the square object and the
 cylindrical object. The main experimental method is to use the Ansys software to simulate the heat transfer of the target object and obtain thermal images of the object. The detection accuracy of the thermography detection can be obtained by comparing the thermographic
 image with the actual optical picture of the object.
+
+## Project Steps
+1. Using Ansys to simulate the heat transfer model and get the data file which is saved in Excel
+2. Using Matlab to calculate the Excel data and plot the Heat transfer images
